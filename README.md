@@ -12,5 +12,5 @@ This repository serves as the programming portfolio documenting all code and pro
 
 Repository Contents:-
 1. C Programs (Active)
-2. Python Programs (Planed)
+2. Python Programs (Active)
 3. R Programs (Planed)
