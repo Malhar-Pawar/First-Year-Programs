@@ -8,7 +8,7 @@ void GI(char *ptr)
 	printf("\t\t\t\t\t-----Battleship-----\n\n");
 	printf("Enter Your Name:\t");
 	scanf(" %19s", ptr);
-	printf("\nHey %s\n\tWelcome to a Classic Game of Battleship.\n\tYou will be Competing Against Mr.Kraken.\n\tBoth Players would place their ships on a 10x10 Grid.\n\tFirst Player to sink all the oponent's ship Wins the Game.\n", ptr);
+	printf("\nHey %s\n\tWelcome to a Classic Game of Battleship.\n\tYou will be Competing Against Mr.Kraken.\n\tBoth Players would place their ships on a 10x10 Grid.\n\tFirst Player to sink all the opponent's ship Wins the Game.\n", ptr);
 	printf("\nLet us Look at the Ships to be Placed and their Sizes:\n1.\tAirCraft Carrier\t: 5 Squares\n2.\tBattleship\t: 4 Squares\n3.\tCruiser\t\t: 3 Squares\n4.\tSubmarine\t: 3 Squares\n5.\tPatrol Boat\t: 2 Squares\n\n");
 }
 
