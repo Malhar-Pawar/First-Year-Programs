@@ -1,5 +1,5 @@
-My First Year Python Project
-This repository contains my Python assignments and experiments.
+My First Year Python Project.<br>
+This repository contains my Python assignments and experiments.<br>
 
 How to run(Windows):
 1. Create the environment: `python -m venv .venv`
