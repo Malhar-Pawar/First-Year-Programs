@@ -1,3 +1,3 @@
-.venv/
+STDVENV/
 __pycache__/
 .ipynb_checkpoints/
